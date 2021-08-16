@@ -23,5 +23,5 @@ chart.render();
 [CanvasJS Documentation](https://canvasjs.com/docs/charts/basics-of-creating-html5-chart/)
 
 **Note:**
-* Plugin was last tested with CanvasJS Charts v3.2.3GA
+* Plugin was last tested with CanvasJS Charts v3.4 Beta 1
 * This plugin requires you to have CanvasJS License. Please visit [CanvasJS](https://canvasjs.com/license/) for more info.
